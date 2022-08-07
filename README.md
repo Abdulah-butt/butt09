@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">Mobile app developer from Pakistan</h3>
+<h3 align="center">Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=butt09&label=Profile%20views&color=0e75b6&style=flat" alt="butt09" /> </p>
 
@@ -19,10 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/abd~butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abd~butt" height="30" width="40" /></a>
-<a href="https://dev.to/abd~butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abd~butt" height="30" width="40" /></a>
 <a href="https://twitter.com/callmeabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callmeabd" height="30" width="40" /></a>
 <a href="https://instagram.com/butt7940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="butt7940" height="30" width="40" /></a>
+<a href="https://fiverr.com/abdullahbutt590" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="abdullahbutt590" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
