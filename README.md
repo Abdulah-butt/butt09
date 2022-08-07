@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">Flutter developer</h3>
 
+<a href="https://ibb.co/ZXKw49V"><img src="https://i.ibb.co/02ZW45c/banner.png" alt="banner" border="0"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=butt09&label=Profile%20views&color=0e75b6&style=flat" alt="butt09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=butt09" alt="butt09" /></a> </p>
