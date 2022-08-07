@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=butt09&show_icons=true&locale=en" alt="butt09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=butt09&" alt="butt09" /></p>
+ ![GitHub metrics](https://metrics.lecoq.io/butt09)  
