@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/call_Me_Abd" target="blank"><img src="https://img.shields.io/twitter/follow/call_Me_Abd?logo=twitter&style=for-the-badge" alt="call_Me_Abd" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👯 I’m looking to collaborate on **flutter apps**
 
