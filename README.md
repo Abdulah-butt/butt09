@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">Flutter developer</h3>
 
-<a href="https://www.fiverr.com/abdullahbutt590"><img src="https://i.ibb.co/02ZW45c/banner.png" alt="banner" border="0"></a>
+<a href="https://www.fiverr.com/abdullahbutt590"><img src="https://i.ibb.co/02ZW45c/banner.png" alt="banner" border="0" width="100%"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=butt09&label=Profile%20views&color=0e75b6&style=flat" alt="butt09" /> </p>
 
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=butt09&show_icons=true&locale=en" alt="butt09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=butt09&" alt="butt09" /></p>
- ![GitHub metrics](https://metrics.lecoq.io/butt09)  
